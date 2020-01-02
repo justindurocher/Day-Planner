@@ -1,0 +1,57 @@
+.header{
+    background-color: lightgray;
+    border-bottom-style: solid;
+    border-bottom-width: 6px;
+    border-bottom-color: black;
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.title{
+    margin-bottom: 7px;
+    font-size: 30px;
+    font-weight: bold;
+}
+.subTitle{
+    margin-bottom: 7px;
+    font-size: 20px;
+}
+.currentDate{
+    font-size: 20px;
+}
+.nine,.ten,.eleven,.twelve,.one,.two,.three,.four,.five{
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.time{
+    text-align: center;
+    font-weight: bold;
+    background-color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-top-style: solid;
+    border-top-width: 2px;
+    border-top-color: black;
+    border-bottom-style: solid;
+    border-bottom-width: 2px;
+    border-bottom-color: black;
+    border-right-style: solid;
+    border-right-width: 2px;
+    border-right-color: black;
+}
+.input{
+    padding-top: 5%;
+    padding-bottom: 5%;
+    text-align: center;
+    background-color: lightskyblue;
+}
+.save{
+    text-align: center;
+    font-weight: bold;
+    background-color: springgreen;
+    color: white;
+    padding-top: 5%;
+    padding-bottom: 5%;
+    border-top-right-radius: 20px;
+    border-bottom-right-radius: 20px;
+}
