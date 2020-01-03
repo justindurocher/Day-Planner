@@ -17,6 +17,7 @@
     font-size: 20px;
 }
 .currentDate{
+    margin-top: 3%;
     font-size: 20px;
 }
 .nine,.ten,.eleven,.twelve,.one,.two,.three,.four,.five{
@@ -27,8 +28,8 @@
     text-align: center;
     font-weight: bold;
     background-color: white;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
     border-top-style: solid;
     border-top-width: 2px;
     border-top-color: black;
@@ -40,18 +41,33 @@
     border-right-color: black;
 }
 .input{
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
     text-align: center;
     background-color: lightskyblue;
+}
+input{
+    background-color: lightskyblue;
+    border: none;
+    width: 400px;
+    text-align: center;
 }
 .save{
     text-align: center;
     font-weight: bold;
     background-color: springgreen;
     color: white;
-    padding-top: 5%;
-    padding-bottom: 5%;
+    padding-top: 3%;
+    padding-bottom: 3%;
     border-top-right-radius: 20px;
     border-bottom-right-radius: 20px;
+}
+.current{
+    background-color: red;
+}
+.past{
+    background-color: darkgray;
+}
+.normal{
+    background-color: lightskyblue;
 }
