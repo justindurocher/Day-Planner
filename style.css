@@ -4,21 +4,25 @@
     border-bottom-width: 6px;
     border-bottom-color: black;
     text-align: center;
-    padding-top: 30px;
-    padding-bottom: 50px;
+    padding-top: 20px;
+    padding-bottom: 30px;
 }
 .title{
-    margin-bottom: 25px;
-    font-size: 30px;
+    margin-bottom: 0px;
+    font-size: 50px;
+    letter-spacing: 5px;
     font-weight: bold;
+    font-family: 'Anton', sans-serif;
 }
 .subTitle{
-    margin-bottom: 7px;
-    font-size: 20px;
+    margin-bottom: 0px;
+    font-size: 40px;
+    font-family: 'Ma Shan Zheng', cursive;
 }
 .currentDate{
     margin-top: 3%;
     font-size: 20px;
+    font-family: 'Yanone Kaffeesatz', sans-serif;
 }
 .nine,.ten,.eleven,.twelve,.one,.two,.three,.four,.five{
     margin-bottom: 5px;
@@ -26,7 +30,7 @@
 }
 .dropdown-toggle{
     background-color: red;
-    margin-top: 25px;
+    margin-top: 20px;
 }
 .time{
     text-align: center;
