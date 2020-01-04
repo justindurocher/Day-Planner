@@ -249,7 +249,7 @@ function getTasks() {
 function timerinterval() {
     setInterval(function(){
         location.reload();
-    }, 100000);
+    }, 60000);
 function restart(){
     $("#1").val("");
     $("#2").val("");
